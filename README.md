@@ -2,8 +2,7 @@
 
 Play the timeless game of **Rock Paper Scissors** against a computer opponent! This web-based version was created using **HTML, CSS, and JavaScript** for an interactive and fun experience.
 
-![Rock Paper Scissors Screenshot](https://github.com/user-attachments/assets/dadafb52-afd6-412c-8347-703c5e9a4bf9)
-) <!-- Add a screenshot of your game here -->
+![Rock Paper Scissors Screenshot](https://github.com/user-attachments/assets/dadafb52-afd6-412c-8347-703c5e9a4bf9) <!-- Add a screenshot of your game here -->
 
 ## 🎯 Features
 
